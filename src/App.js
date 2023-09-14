@@ -4,17 +4,17 @@ function App() {
   return (
     <div className="calculator-grid">
       <div className="output">
-        <div className="previus-operation">2365</div>
-        <div className="current-operation">2365</div>
+        <div className="previus-operation"></div>
+        <div className="current-operation"></div>
       </div>
 
       <button className="span-two">AC</button>
       <button>DEL</button>
-      <button>/</button>
+      <button>÷</button>
       <button>1</button>
       <button>2</button>
       <button>3</button>
-      <button>*</button>
+      <button>×</button>
       <button>4</button>
       <button>5</button>
       <button>6</button>
